@@ -13,7 +13,7 @@ export default function HeroSection() {
     >
       {/* Animated Logo */}
       <motion.img
-        src="/images/logo.jpeg"
+        src="/Speed_Clinic/images/logo.jpeg"
         alt="Speed Clinic & Pharma Logo"
         initial={{ opacity: 0, y: -30 }}
         animate={{ opacity: 1, y: 0 }}

@@ -62,7 +62,7 @@ export default function AboutSection() {
         {/* Image Container */}
         <div className="md:w-1/2 flex justify-center">
           <Image
-            src="/images/Dr.Kuval.jpeg"
+            src="/Speed_Clinic/images/Dr.Kuval.jpeg"
             alt="Dr. Kuval H. J."
             width={280}
             height={280}

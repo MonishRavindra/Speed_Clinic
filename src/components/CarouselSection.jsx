@@ -1,20 +1,19 @@
 import React, { useState } from "react";
 import { Button } from "@mantine/core";
 
-// Replace these URLs with your 10 photo URLs
 const photos = [
-  "/images/15.jpeg",
-  "/images/1.jpeg",
-  "/images/2.jpeg",
-  "/images/3.jpeg",
-  "/images/4.jpeg",
-  "/images/5.jpeg",
-  "/images/6.jpeg",
-  "/images/9.jpeg",
-  "/images/10.jpeg",
-  "/images/12.jpeg",
-  "/images/16.jpeg",
-  "/images/17.jpeg",
+  "/Speed_Clinic/images/15.jpeg",
+  "/Speed_Clinic/images/1.jpeg",
+  "/Speed_Clinic/images/2.jpeg",
+  "/Speed_Clinic/images/3.jpeg",
+  "/Speed_Clinic/images/4.jpeg",
+  "/Speed_Clinic/images/5.jpeg",
+  "/Speed_Clinic/images/6.jpeg",
+  "/Speed_Clinic/images/9.jpeg",
+  "/Speed_Clinic/images/10.jpeg",
+  "/Speed_Clinic/images/12.jpeg",
+  "/Speed_Clinic/images/16.jpeg",
+  "/Speed_Clinic/images/17.jpeg",
 ];
 
 export default function CarouselSection() {
